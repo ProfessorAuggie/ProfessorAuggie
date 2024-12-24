@@ -19,9 +19,7 @@ I'm a computer science student passionate about AI, machine learning, and softwa
 ## 📈 Online Judge Progress
 
 ### LeetCode Stats
-
-![LeetCode Stats](https://leetcode-badge.haozibi.dev/v1/stats/professorauggie)
-![LeetCode Contest Rating](https://leetcode-badge.haozibi.dev/v1/contest/professorauggie)
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=professorauggie" alt="LeetCode Badges"/>
 
 ### GeeksforGeeks Stats
 
