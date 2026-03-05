@@ -4,8 +4,6 @@
 💡 Problem Solving Enthusiast | DSA Focused  
 📍 Uttar Pradesh, India  
 
----
-
 ## 🚀 About Me
 
 - 🎯 Solved **1000+ Data Structures & Algorithms problems**
@@ -13,8 +11,6 @@
 - 👨‍💼 Secretary at **C Square Club (4,000+ member community)**
 - 🏆 HackerRank Campus Crew Ambassador
 - 🌱 Currently focused on strengthening core CS fundamentals and problem-solving skills
-
----
 
 ## 🛠 Technical Skills
 
@@ -31,8 +27,6 @@ Computer Networks
 **Tools:**  
 Git, Linux, VS Code  
 
----
-
 ## 🌐 Projects
 
 ### 🔹 Personal Portfolio Website  
@@ -42,10 +36,7 @@ Built using HTML, CSS, and JavaScript
 - Clean UI layout  
 - Showcases projects and coding profiles  
 
-🔗 Live Demo:  
-https://professor-auggie.vercel.app/
-
----
+🔗 Live Demo: https://professor-auggie.vercel.app/
 
 ## 🏅 Coding Profiles
 
@@ -55,8 +46,6 @@ https://professor-auggie.vercel.app/
 - 🔹 HackerRank: https://www.hackerrank.com/profile/professorauggie
 - 🔹 HackerEarth: https://www.hackerearth.com/@professorauggie
 - 🔹 Code360: https://www.codingninjas.com/studio/profile/ProfessorAuggie
-
----
 
 ## 🏢 Leadership Experience
 
@@ -69,15 +58,12 @@ https://professor-auggie.vercel.app/
 - Promoting competitive programming initiatives  
 - Organizing coding challenges and engagement programs  
 
----
 
 ## 📫 Connect With Me
 
 📧 Email: professorauggie@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/professorauggie/  
 🌐 Portfolio: https://professor-auggie.vercel.app/  
-💬 WhatsApp: https://wa.me/919084542911  
 
----
 
 > “Consistency in problem solving builds real confidence.”
