@@ -1,80 +1,65 @@
-<!-- Improved README by GitHub Copilot -->
+
+<!-- Professional profile README -->
 
 # Vaibhav Kushwaha (ProfessorAuggie) 👋
 
-[![Website](https://img.shields.io/badge/website-portfolio-blue)](https://professor-auggie.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/professorauggie/)
+[Portfolio](https://professor-auggie.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/professorauggie/)
 
-<!-- Coding profile badges -->
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FE7A16?logo=leetcode&logoColor=white)](https://leetcode.com/professorauggie/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-1A2F6F?logo=codechef&logoColor=white)](https://www.codechef.com/users/profauggie)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/professorauggie/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/professorauggie)
-[![HackerEarth](https://img.shields.io/badge/HackerEarth-Profile-6A8DFF?logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@professorauggie)
-[![Code360](https://img.shields.io/badge/Code360-Profile-FF6A00?logo=codingninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/ProfessorAuggie)
+Summary
+-------
+Final-year Computer Science Engineering student from Uttar Pradesh, India. Passionate about algorithms, systems design, and building projects that solve real problems. Experienced in competitive programming (1000+ problems solved), campus leadership, and community-building.
 
-Compact professional profile, problem-solving portfolio, and contact hub for recruiters, collaborators, and fellow learners.
-
----
-
-## Table of Contents
-- Highlights
-- Tech & Tools
-- Selected Projects
-- Leadership & Impact
-- How to Connect
-- Quick Links
-
----
-
-## Highlights
-- Final-year Computer Science Engineering student based in Uttar Pradesh, India.
-- Solved 1000+ Data Structures & Algorithms problems (competitive programming focus).
-- Secretary — C Square Club (4,000+ members): event lead and community builder.
-- HackerRank Campus Crew Ambassador: campus engagement and challenge organization.
-
-## Tech & Tools
-- Languages: C++, Java, Python, JavaScript, SQL
-- Concepts: Algorithms & Data Structures, OOP, OS, DBMS, Networking
-- Tools: Git, Linux, VS Code, basic web stack (HTML/CSS/JS)
-
----
-
-## Selected Projects
-
-- **Personal Portfolio Website** — responsive portfolio built with HTML/CSS/JS showcasing projects, profiles, and contact info.
-	- Live: https://professor-auggie.vercel.app/
-
-- (Add project entries here with short descriptions, tech used, and live/demo links.)
-
----
-
-## Leadership & Impact
-- **Secretary — C Square Club**: Organized coding competitions, technical workshops, and community programs reaching thousands.
-- **HackerRank Campus Crew Ambassador**: Promoted competitive programming and ran campus-level events.
-
----
-
-## How to Connect
-- LinkedIn: https://www.linkedin.com/in/professorauggie/
+Quick Links
+-----------
 - Portfolio: https://professor-auggie.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/professorauggie/
+- LeetCode: https://leetcode.com/professorauggie/
 
-If you're a recruiter: send a short note with the role and availability and I'll reply within 48 hours.
+Highlights
+----------
+- Competitive programming: 1000+ problems across platforms.
+- Leadership: Secretary at C Square Club (4,000+ members).
+- Campus ambassador: HackerRank Campus Crew.
+
+Core Skills
+-----------
+- Languages: C++, Java, Python, JavaScript, SQL
+- Topics: Data Structures & Algorithms, Object-Oriented Design, Operating Systems, Databases, Networking
+- Tools: Git, Linux, VS Code, HTML/CSS/JS
+
+Selected Projects
+-----------------
+- Personal Portfolio — A responsive portfolio showcasing projects and contact info.
+  - Live: https://professor-auggie.vercel.app/
+- (Add other projects below with a short description, tech stack, and link)
+
+How to Use This Repo
+---------------------
+This repository serves as a profile hub. To make it more actionable:
+
+1. Add project folders with README and demo links.
+2. Include short case studies that describe the problem, approach, and key learnings.
+3. Add a `resume.pdf` in the repo root for quick download.
+
+Contributing & Collaboration
+----------------------------
+- Want to collaborate or hire me? Reach out on LinkedIn with a short proposal.
+- Suggestions for this README or portfolio are welcome — open an issue or start a thread.
+
+Contact
+-------
+Connect on LinkedIn for opportunities, collaborations, or to request a resume.
+
+What's Next (I can help)
+------------------------
+- Expand the Projects section into curated case studies.
+- Add CI badges and automated deployment for the portfolio site.
+- Generate a printable résumé and a developer-focused README.
+
+License
+-------
+This profile content is free to view and link to. If you want to reuse text or images, please ask.
 
 ---
 
-## Quick Tips for Visitors
-- Looking for interview prep? Check the portfolio and open the `Projects` section for problem sets and solutions.
-- Want to collaborate? Reach out via LinkedIn with a short proposal and preferred timeline.
-
----
-
-## Want this README tailored further?
-I can:
-- Add project case studies with code snippets and architecture diagrams.
-- Generate a one-page printable résumé from this profile.
-- Create a developer portfolio README with automated badges and live build status.
-
-If you'd like any of those, tell me which and I'll update this file.
-
-> “Consistency in problem solving builds real confidence.”
+If you'd like a custom version of this README (resume-style, project-focused, or company-facing), tell me which style and I'll update [README.md](README.md).
