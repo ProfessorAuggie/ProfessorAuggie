@@ -44,13 +44,3 @@ Contributing & Collaboration
 Contact
 -------
 Use the profiles above for opportunities, collaborations, or to request a resume.
-
-What's Next (I can help)
-------------------------
-- Expand the Projects section into curated case studies.
-- Add CI badges and automated deployment for the profile hub.
-- Generate a printable résumé and a developer-focused README.
-
-License
--------
-This profile content is free to view and link to. If you want to reuse text or images, please ask.
