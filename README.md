@@ -3,26 +3,6 @@
 
 # Vaibhav Kushwaha (ProfessorAuggie) 👋
 
-%==================== CODING PROFILES ====================%
-\section*{Coding Profiles}
-
-\begin{tabularx}{\textwidth}{X X}
-\href{https://leetcode.com/professorauggie/}{LeetCode: professorauggie} &
-\href{https://auth.geeksforgeeks.org/user/professorauggie/}{GeeksforGeeks: professorauggie} \\
-
-\href{https://www.codechef.com/users/profauggie}{CodeChef: profauggie} &
-\href{https://www.hackerrank.com/profile/professorauggie}{HackerRank: professorauggie} \\
-
-\href{https://www.hackerearth.com/@professorauggie}{HackerEarth: professorauggie} &
-\href{https://www.codingninjas.com/studio/profile/ProfessorAuggie}{Code360: ProfessorAuggie} \\
-
-\href{https://codolio.com/profile/ProfessorAuggie}{Codolio: ProfessorAuggie} &
-\href{https://github.com/ProfessorAuggie}{GitHub: ProfessorAuggie} \\
-\end{tabularx}
-
-Summary
--------
-Final-year Computer Science Engineering student from Uttar Pradesh, India. Passionate about algorithms, systems design, and building projects that solve real problems. Experienced in competitive programming (1000+ problems solved), campus leadership, and community-building.
 
 Quick Links
 -----------
