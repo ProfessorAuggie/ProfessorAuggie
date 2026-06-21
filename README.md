@@ -1,46 +1,48 @@
+# Hi there, I'm Vaibhav Kushwaha! 👋 (aka @ProfessorAuggie)
 
-<!-- Professional profile README -->
+<p align="left">
+  <a href="https://www.linkedin.com/in/professorauggie/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://professor-auggie.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Portfolio" /></a>
+</p>
 
-# Vaibhav Kushwaha (ProfessorAuggie) 👋
+> **"I speak code and my blood group is C++."**
+> I am a Software Engineer and Backend Developer focused on building high-performance distributed systems, consistent hashing caching engines, and scalable event-driven ingestion pipelines.
 
+---
 
-Quick Links
------------
-- LeetCode: https://leetcode.com/professorauggie/
-- GeeksforGeeks: https://auth.geeksforgeeks.org/user/professorauggie/
-- CodeChef: https://www.codechef.com/users/profauggie
-- HackerRank: https://www.hackerrank.com/profile/professorauggie
-- HackerEarth: https://www.hackerearth.com/@professorauggie
-- Code360: https://www.codingninjas.com/studio/profile/ProfessorAuggie
-- Codolio: https://codolio.com/profile/ProfessorAuggie
-- GitHub: https://github.com/ProfessorAuggie
+### 🛠️ Technology Stack & Languages
 
-Highlights
-----------
-- Competitive programming: 1000+ problems across platforms.
-- Leadership: Secretary at C Square Club (4,000+ members).
-- Campus ambassador: HackerRank Campus Crew.
+- **Languages:** `Java` • `C++` • `C#` • `TypeScript` • `JavaScript` • `Python` • `SQL` • `Solidity`
+- **Frameworks & Libraries:** `Spring Boot` • `Spring Data JPA` • `Node.js` • `Express` • `React` • `Next.js` • `FastAPI`
+- **Databases & Caching:** `Redis` • `PostgreSQL` • `MySQL` • `MongoDB`
+- **Tools & Observability:** `Git` • `Docker` • `AWS` • `Linux` • `Prometheus` • `Kafka`
 
-Core Skills
------------
-- Languages: C++, Java, Python, JavaScript, SQL
-- Topics: Data Structures & Algorithms, Object-Oriented Design, Operating Systems, Databases, Networking
-- Tools: Git, Linux, VS Code, HTML/CSS/JS
+---
 
+### 🚀 Featured Projects
 
-How to Use This Repo
----------------------
-This repository serves as a profile hub. To make it more actionable:
+* **[AlgoNerve](https://github.com/ProfessorAuggie/AlgoNerve)** — An interactive visualizer rendering step-by-step transitions of stack frames, state changes, and graph traversals. Built on a custom playback engine.
+  * *Tech Stack:* React, TypeScript, D3.js, Accessibility
+  * *Live Demo:* [algonerve.vercel.app](https://algonerve.vercel.app/)
 
-1. Add project folders with README and demo links.
-2. Include short case studies that describe the problem, approach, and key learnings.
-3. Add a `resume.pdf` in the repo root for quick download.
+* **[ScaleCache](https://github.com/ProfessorAuggie/ScaleCache)** — A peer-to-peer distributed cache service using consistent hashing to partition keys across dynamic nodes with minimal overhead. Benchmarked at 120k ops/sec with <10ms P95 latency.
+  * *Tech Stack:* Java, Spring Boot, Redis, Prometheus
 
-Contributing & Collaboration
-----------------------------
-- Want to collaborate or hire me? Reach out with a short proposal.
-- Suggestions for this README are welcome — open an issue or start a thread.
+* **[EventStream](https://github.com/ProfessorAuggie/EventStream)** — A real-time asynchronous event ingestion pipeline backed by Apache Kafka, consumer groups, and idempotent consumer structures.
+  * *Tech Stack:* Kafka, Java, Postgres, Elasticsearch
 
-Contact
--------
-Use the profiles above for opportunities, collaborations, or to request a resume.
+---
+
+### 📊 Competitive Programming & Leadership
+
+* 🏆 **2482+ CP & DSA problems solved** across LeetCode, Codeforces, HackerRank, GeeksforGeeks, and Code360.
+* ⚡ **LeetCode Peak Rating**: `1663` | **Code360 Rating**: `1924`
+* 🏫 **Campus Lead** at HackerRank & Former **Secretary / President** of the C Square Club (directing operations and learning programs for 4,000+ student developers).
+* 📝 **Technical Content Writer** at GeeksforGeeks (authored 50+ in-depth guides on DSA, OOP, OS, and System Design).
+
+---
+
+### 📫 Connect with Me
+
+* **LinkedIn:** [linkedin.com/in/professorauggie](https://www.linkedin.com/in/professorauggie/)
+* **Portfolio Site:** [professor-auggie.vercel.app](https://professor-auggie.vercel.app/)
